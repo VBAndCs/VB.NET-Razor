@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28705.295
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VBMvcSample", "VBRazorSample\VBMvcSample.vbproj", "{93644DF6-2451-4663-A0A7-F64FF681CA89}"
 EndProject
-Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VbRazor", "VbRazor\VbRazor.vbproj", "{B2BFBC14-039A-451D-A7F9-D8D605532A0A}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "VBRazor", "VbRazor\VBRazor.vbproj", "{B2BFBC14-039A-451D-A7F9-D8D605532A0A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

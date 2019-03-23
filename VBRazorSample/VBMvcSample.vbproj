@@ -4,6 +4,10 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\_ViewImports.cshtml" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.0.0-preview-19075-0444" />
@@ -11,7 +15,7 @@
 
 
   <ItemGroup>
-    <ProjectReference Include="..\VbRazor\VbRazor.vbproj" />
+    <ProjectReference Include="..\VbRazor\VBRazor.vbproj" />
   </ItemGroup>
 
 </Project>
