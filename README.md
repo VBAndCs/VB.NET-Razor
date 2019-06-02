@@ -1,3 +1,6 @@
+# Note: 
+I use a better way in https://github.com/VBAndCs/Vazor-DotNetCore2 to make use of tag helpers and other Razor capabililties.
+
 This is a working VB.NET ASP.NET MVC Core Razor sample!
 I implemented a simple VBRazorViewEngine in the VbRazor project. 
 To use VBRazorViewEngine in the web project:
